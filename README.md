@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A non GUI Tic Tac Toe Game.
+A Tic Tac Toe Game that includes GUI.
